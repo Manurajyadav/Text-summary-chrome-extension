@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Webpage Text Summariser",
+    "description": "An extension to summarize selected or full text from any webpage",
+    "version": "1.0",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["http://127.0.0.1:5000/*"],
+    
+    "action": {
+        "default_title": "Summarise Webpage Text",
+        "default_icon": {
+            "16": "images/icon16.png",
+            "32": "images/icon32.png",
+            "48": "images/icon48.png",
+            "128": "images/icon120.png"
+        },
+        "default_popup": "popup.html"
+    },
+
+    "icons": {
+        "16": "images/icon16.png",
+        "32": "images/icon32.png",
+        "48": "images/icon48.png",
+        "128": "images/icon120.png"
+    }
+}
