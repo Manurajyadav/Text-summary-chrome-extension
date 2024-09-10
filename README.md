@@ -24,14 +24,14 @@ This is a **Chrome extension** that provides on-the-fly summarization of any web
 2. **Python** (if you want to run the backend locally)
 3. A [Render account](https://render.com) (if you wish to deploy your own version)
 
-###📚 Resources
+### 📚 Resources
 Chrome Extensions Documentation
 Flask Documentation
 Hugging Face DistilBART Model
 
-###🚧 Future Improvements
+### 🚧 Future Improvements
 Support for Multiple Languages: Expand the summarization to support more languages.
 Offline Mode: Allow the summarization to work even without internet connectivity using local models.
 
-###🙌 Contributing
+### 🙌 Contributing
 Feel free to submit a pull request or raise an issue if you'd like to contribute to the project.
