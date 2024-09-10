@@ -25,9 +25,9 @@ This is a **Chrome extension** that provides on-the-fly summarization of any web
 3. A [Render account](https://render.com) (if you wish to deploy your own version)
 
 ### 📚 Resources
-- **Chrome Extensions Documentation
-- **Flask Documentation
-- **Hugging Face DistilBART Model
+- Chrome Extensions Documentation
+- Flask Documentation
+- Hugging Face DistilBART Model
 
 ## 🚧 Future Improvements
 Support for Multiple Languages: Expand the summarization to support more languages.
